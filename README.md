@@ -56,7 +56,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Here is the link to the rails back end:
 
-<!-- [Hello-Rails-Back-End]() -->
+[Hello-Rails-Back-End](https://github.com/yayaismaail/hello-rails-back-end)
 
 ## Available Scripts
 
